@@ -11,7 +11,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', 'Amigo secreto');
+    exibirTextoNaTela('h1', 'Meu Amigo secreto');
     exibirTextoNaTela('h2', 'Digite o nome de seus amigos');
 }
 
